@@ -49,20 +49,7 @@ I thrive under pressure, learn fast, and don't stop until the work ships.
 
 <div align="center">
 
-![Ekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crops12&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=Crops12&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crops12&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Crops12&theme=tokyonight&no-frame=true&column=7&margin-w=8)
 
 </div>
 
