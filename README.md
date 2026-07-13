@@ -2,30 +2,33 @@
 
 Software Engineer · AI Enthusiast · End-to-End Builder
 <br>
-Building things that **ship** — from full-stack security dashboards to deep reinforcement learning experiments — with a hands-on engineering mindset shaped by years in **motorsport and automotive R&D**.
+Software engineer and AI enthusiast with a background in Automotive Engineering, now building things that **ship**.
 <br>
 <br>
 
 ## About Me <br>
-I am an MSc student in **Computer Science and Artificial Intelligence at Sapienza University of Rome**, with a background in Automotive Engineering. <br>
+I am a software engineer and AI enthusiast with a background in Automotive Engineering, now pursuing an **MSc in Computer Science and Artificial Intelligence at Sapienza University of Rome**. <br>
 
-My strongest areas are **Python, AI/ML, and full-stack development**. I build complete projects end to end: a REST API, a React dashboard, a CI pipeline and a Docker deployment — all the way from idea to something you can actually run. <br>
+I build end-to-end projects ranging from full-stack security dashboards to deep reinforcement learning experiments, and I bring the same hands-on engineering mindset to software that I applied while leading an FSAE electric vehicle team. <br>
 
-I bring the same engineering discipline to software that I applied while leading an **FSAE electric vehicle team**: work under pressure, learn fast, and don't stop until the work ships. <br>
+I thrive under pressure, learn fast, and don't stop until the work ships. <br>
 
 > I enjoy understanding not only how a technology is used, but also why it works and where it fits.
 
----
+<br>
 
 ### Featured Projects
 
-**🛡️ [CyLog](https://github.com/Crops12/CyLog-MVP)** — AI-assisted security log monitoring dashboard. Ingests Apache access logs, detects SQL injection / XSS / path traversal / brute force / request-burst anomalies with per-IP scoring. `FastAPI` · `React` · `Docker` · `CI`
+**🛡️ [CyLog](https://github.com/Crops12/CyLog-MVP)** &nbsp;·&nbsp; AI-assisted security log monitoring dashboard. Ingests Apache access logs, normalizes HTTP events, and detects threats including SQL injection, XSS, path traversal, scanner activity, brute force, and request burst anomalies, with per-IP anomaly scoring for prioritization. <br>
+`FastAPI` · `React` · `Vite` · `Docker` · `GitHub Actions CI`
 
-**🤖 [Taxi-V4](https://github.com/Crops12/Taxi-V4-Experimental---ML-Project)** — Comparative study of 6 RL agents (Q-Learning, SARSA, DQN × ε-greedy/Softmax) on Gymnasium Taxi-v4. DQN reached a 67% success rate, beating the best tabular baseline by 2.7×. `PyTorch` · `Deep Q-Network` · `Gymnasium`
+**🤖 [Taxi-V4](https://github.com/Crops12/Taxi-V4-Experimental---ML-Project)** &nbsp;·&nbsp; A systematic comparison of 6 reinforcement learning agents on the Gymnasium Taxi-v4 environment. DQN with epsilon-greedy exploration achieved a 67% task success rate, outperforming the best tabular baseline by 2.7 times. <br>
+`PyTorch` · `Deep Q-Network` · `Q-Learning` · `SARSA`
 
-**🎬 [SyncWatch](https://github.com/Crops12/SyncWatch)** — Real-time synchronized video watching platform with password-protected rooms, in-room camera sharing and live chat. `Node.js` · `React 19` · `Socket.IO`
+**🎬 [SyncWatch](https://github.com/Crops12/SyncWatch)** &nbsp;·&nbsp; A real-time platform that lets groups watch videos together with fully synchronized playback, password-protected rooms, in-room camera sharing, and live chat. <br>
+`Node.js` · `React` · `Socket.IO` · `Docker`
 
----
+<br>
 
 ### Tech Stack
 
@@ -57,12 +60,12 @@ I bring the same engineering discipline to software that I applied while leading
 
 ![Reinforcement Learning](https://img.shields.io/badge/REINFORCEMENT%20LEARNING-EE4C2C?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-333333?style=for-the-badge)
-![Full-Stack](https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-6A5ACD?style=for-the-badge)
+![Full-Stack](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-6A5ACD?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 
 **Currently Exploring:**
 
 `Deep Reinforcement Learning` · `Computer Vision` · `Distributed Systems` · `Backend Architecture` · `MLOps`
 
----
+<br>
 
