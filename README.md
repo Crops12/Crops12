@@ -1,23 +1,24 @@
-# Hi! I'm Ekin <br>
+<div align="center">
 
-Software Engineer · AI Enthusiast · End-to-End Builder
-<br>
-Software engineer and AI enthusiast with a background in Automotive Engineering, now building things that **ship**.
-<br>
-<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=560&lines=Hi!+I'm+Ekin;Software+Engineer+%7C+AI+Enthusiast;End-to-End+Builder)
 
-## About Me <br>
-I am a software engineer and AI enthusiast with a background in Automotive Engineering, now pursuing an **MSc in Computer Science and Artificial Intelligence at Sapienza University of Rome**. <br>
+![Profile Views](https://komarev.com/ghpvc/?username=Crops12&color=3776AB&style=for-the-badge&label=PROFILE+VIEWS)
 
-I build end-to-end projects ranging from full-stack security dashboards to deep reinforcement learning experiments, and I bring the same hands-on engineering mindset to software that I applied while leading an FSAE electric vehicle team. <br>
+</div>
 
-I thrive under pressure, learn fast, and don't stop until the work ships. <br>
+## About Me
+
+I am a software engineer and AI enthusiast with a background in Automotive Engineering, now pursuing an **MSc in Computer Science and Artificial Intelligence at Sapienza University of Rome**.
+
+I build end-to-end projects ranging from full-stack security dashboards to deep reinforcement learning experiments, and I bring the same hands-on engineering mindset to software that I applied while leading an FSAE electric vehicle team.
+
+I thrive under pressure, learn fast, and don't stop until the work ships.
 
 > I enjoy understanding not only how a technology is used, but also why it works and where it fits.
 
 <br>
 
-### Featured Projects
+## Featured Projects
 
 **🛡️ [CyLog](https://github.com/Crops12/CyLog-MVP)** &nbsp;·&nbsp; AI-assisted security log monitoring dashboard. Ingests Apache access logs, normalizes HTTP events, and detects threats including SQL injection, XSS, path traversal, scanner activity, brute force, and request burst anomalies, with per-IP anomaly scoring for prioritization. <br>
 `FastAPI` · `React` · `Vite` · `Docker` · `GitHub Actions CI`
@@ -30,38 +31,13 @@ I thrive under pressure, learn fast, and don't stop until the work ships. <br>
 
 <br>
 
-### Tech Stack
+## Tech Stack
 
-**Languages:**
+<div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,react,nodejs,js,html,css,docker,git,github,vscode,matlab)
 
-**AI / ML & Frameworks:**
-
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Tools & Platforms:**
-
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Concepts & Methodologies:**
-
-![Reinforcement Learning](https://img.shields.io/badge/REINFORCEMENT%20LEARNING-EE4C2C?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-333333?style=for-the-badge)
-![Full-Stack](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-6A5ACD?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+</div>
 
 **Currently Exploring:**
 
@@ -69,3 +45,47 @@ I thrive under pressure, learn fast, and don't stop until the work ships. <br>
 
 <br>
 
+## GitHub Stats
+
+<div align="center">
+
+![Ekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crops12&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Crops12&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crops12&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+</div>
+
+<br>
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Crops12&theme=tokyonight&no-frame=true&column=7&margin-w=8)
+
+</div>
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crops12&hide_border=true&theme=tokyo-night)
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake.svg" />
+</picture>
+
+</div>
