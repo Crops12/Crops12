@@ -66,6 +66,3 @@ I bring the same engineering discipline to software that I applied while leading
 
 ---
 
-### GitHub Stats
-
-![Ekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crops12&show_icons=true&hide_border=true)
