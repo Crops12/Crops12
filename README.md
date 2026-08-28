@@ -45,25 +45,6 @@ I thrive under pressure, learn fast, and don't stop until the work ships.
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Crops12&hide_border=true&theme=tokyonight)
-
-</div>
-
-<br>
-
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crops12&hide_border=true&theme=tokyo-night)
-
-</div>
-
-<br>
 
 ## Contribution Snake
 
